@@ -1,0 +1,26 @@
+[
+	{
+		"id": 7,
+		"name": "Signor",
+		"price": 150,
+		"img": "pic7.jpg",
+		"title": "Signor Dress",
+		"text": "이것은 7번째 상품입니다."
+	},
+	{
+		"id": 8,
+		"name": "Monseur",
+		"price": 120,
+		"img": "pic8.jpg",
+		"title": "Monseur",
+		"text": "이것은 8번째 상품입니다."
+	},
+	{
+		"id": 9,
+		"name": "Kamusta",
+		"price": 499,
+		"img": "pic9.jpg",
+		"title": "Kamusta",
+		"text": "이것은 9번째 상품입니다."
+	}
+]

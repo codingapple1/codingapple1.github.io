@@ -1,0 +1,26 @@
+[
+   {
+      "id": 4,
+      "name": "Mocade",
+      "price": 350,
+      "img": "./pic4.jpg",
+      "title": "Black Mocade",
+      "text": "Hey look up! It's a plane! No, It's a bird! No, it's the assassin performing leap of faith."
+   },
+   {
+      "id": 5,
+      "name": "zipper",
+      "price": 59,
+      "img": "./pic5.jpg",
+      "title": "No zipper dress",
+      "text": "The price of this dress has been cut off since we lost the zipper on the back."
+   },
+   {
+      "id": 6,
+      "name": "ernest",
+      "price": 299,
+      "img": "./pic6.jpg",
+      "title": "Dear Ernest",
+      "text": "We'll bring readers to the edge of ther seats and keep them there until we sell this dress."
+   }
+]
