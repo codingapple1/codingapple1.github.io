@@ -5,6 +5,6 @@
   "likes": 5,
   "date": "July 25",
   "liked": false,
-  "caption": "더보기로 요청한 게시물1입니다.",
+  "content": "더보기로 요청한 게시물1입니다.",
   "filter": "perpetua"
 }
