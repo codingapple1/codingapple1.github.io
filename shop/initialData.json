@@ -2,6 +2,7 @@
   {
     "id" : 0,
     "name" : "재롱이",
+    "img": "https://codingapple.github.io/shop/dogimg/dog0.jpeg",
     "age" : 2,
     "things" : ["접종완료", "중성화", "변기물 알아서 내림"],
     "days" : 25,
@@ -10,6 +11,7 @@
   {
     "id" : 1,
     "name" : "바둑",
+    "img": "https://codingapple.github.io/shop/dogimg/dog1.jpeg",
     "age" : 6,
     "things" : ["밥안먹음", "산책좋아함", "관절유의"],
     "days" : 11,
@@ -18,14 +20,16 @@
   {
     "id" : 2,
     "name" : "삼순",
+    "img": "https://codingapple.github.io/shop/dogimg/dog2.jpg",
     "age" : 3,
-    "things" : ["꼬질꼬질", "여자좋아함"],
+    "things" : ["꼬질꼬질", "목동유기견"],
     "days" : 3,
     "passed": false
   },
   {
     "id" : 3,
     "name" : "이름 미정",
+    "img": "https://codingapple.github.io/shop/dogimg/dog3.jpeg",
     "age" : 2,
     "things" : ["사람안좋아함", "접종완료"],
     "days" : 7,
@@ -34,16 +38,18 @@
   {
     "id" : 4,
     "name" : "갈색이",
+    "img": "https://codingapple.github.io/shop/dogimg/dog4.jpeg",
     "age" : 1,
-    "things" : ["고양이좋아함", "불알큼"],
+    "things" : ["여자고양이좋아함", "불알큼"],
     "days" : 16,
     "passed": false
   },
   {
     "id" : 5,
     "name" : "리버",
+    "img": "https://codingapple.github.io/shop/dogimg/dog5.png",
     "age" : 5,
-    "things" : ["장기미입양", "20일남음"],
+    "things" : ["목줄착용", "아는분제보"],
     "days" : 54,
     "passed": false
   }
