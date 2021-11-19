@@ -1,0 +1,12 @@
+[
+    {
+        "id": 3,
+        "image": "https://codingapple1.github.io/app/img3.png",
+        "likes": 7,
+        "date": "Apr 15",
+        "content": "바질안입고 바질먹으러감",
+        "liked": false,
+        "filter": "lofi"
+    }
+    
+]
