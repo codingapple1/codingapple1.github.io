@@ -6,7 +6,7 @@
         "date": "July 25",
         "content": "등을 대라 등대",
         "liked": false,
-        "filter": "perpetua"
+        "user": "John Kim"
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "date": "Aug 3",
         "content": "요즘 폰카는 성능이 좋습니다",
         "liked": false,
-        "filter": "moon"
+        "user": "Hilton_m"
     },
     {
         "id": 2,
@@ -24,6 +24,6 @@
         "date": "Nov 30",
         "content": "기린바보 😵",
         "liked": false,
-        "filter": "hudson"
+        "user": "rimvely1"
     }
 ]
