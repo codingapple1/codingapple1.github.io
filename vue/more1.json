@@ -1,7 +1,7 @@
 {
   "name": "John Park",
-  "userImage": "https://placeimg.com/100/100/arch",
-  "postImage": "https://placeimg.com/640/480/arch",
+  "userImage": "https://picsum.photos/100?random=2",
+  "postImage": "https://picsum.photos/600?random=2",
   "likes": 10,
   "date": "May 15",
   "liked": false,
