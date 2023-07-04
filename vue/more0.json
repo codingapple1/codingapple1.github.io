@@ -1,7 +1,7 @@
 {
   "name": "David",
-  "userImage": "https://picsum.photos/100/100",
-  "postImage": "https://picsum.photos/600/600",
+  "userImage": "https://picsum.photos/100?random=1",
+  "postImage": "https://picsum.photos/600?random=1",
   "likes": 5,
   "date": "July 25",
   "liked": false,
